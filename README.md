@@ -1,5 +1,7 @@
 # CUDA HyperLogLog
 
+[HyperLogLog video](https://www.youtube.com/watch?v=B_PexYrEcEw&t=85s)
+
 [Download the presentation (PDF)](docs/cuda-hyperloglog.pdf)
 
 ![Slide 1](docs/slides/slide-01.png)
