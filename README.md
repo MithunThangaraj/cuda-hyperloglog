@@ -1,5 +1,7 @@
 # CUDA HyperLogLog
 
+[Experiment note: why did more buckets make it faster?](docs/notes/more-buckets.md)
+
 [Watch this video on Hyperlolog](https://www.youtube.com/watch?v=B_PexYrEcEw)
 
 [Download the presentation (PDF)](docs/cuda-hyperloglog.pdf)
